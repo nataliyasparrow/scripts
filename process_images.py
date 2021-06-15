@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Resize and compress images for Web
+# Configuration: config.json
+
 import os, sys
 from PIL import Image
 import json
