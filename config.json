@@ -1,0 +1,6 @@
+{
+    "input_path": "original_images/",
+    "output_path": "compressed_images/",
+    "size": [800, 600],
+    "out_format": "jpeg" 
+}
